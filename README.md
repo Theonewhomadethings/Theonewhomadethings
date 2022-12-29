@@ -28,12 +28,11 @@ I have experience also using C++ and C which I have used for projects done in bo
 
 In terms of Java this has been comepletely self learnt. Most Algorithms and Data structure courses and intro to programming courses I saw where taught in Java, so I decided to just pick it up and learn how to manipulate the data structures in this language and see how algorithms are implemented here. Then I would translate these implementations to python3. The courses I am doing right now are Princeton's Coursera course "Algorithms part 1" and Harvard's online CS50 intro to programming. Parallel to this, I am grinding leetcode to get used to writing efficient code and explore competitive programming.
 
-  Current level (self-analysis):
-- Python Intermediate --> Advanced Stage
-- C++    Beginner --> Intermediate
-- C      Beginner (no plans to progress right now)
-- Java   Beginner --> Intermediate
-- JS     (2023 plan to learn)
+  Current Languages
+- Python
+- C++   
+- C     
+- Java   
 
 -----------------------------------
 
