@@ -1,6 +1,6 @@
 # Abdullah Saleem
 
-**` Aspiring Physicist (Young Programmer / Early stage Researcher)`**
+**` Aspiring Physicist (Programmer / Early stage Researcher)`**
 
 -----------------------------------
 ## About me 👋
