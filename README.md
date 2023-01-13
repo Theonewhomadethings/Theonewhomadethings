@@ -7,7 +7,7 @@
 
 I am a 3rd year Physics student currently pursuing a BSc at Royal Holloway. After I achieve my BSC, the plan is to work in the industry for several years to gain hands on experience working with the most up to date leading-edge technologies. At some stage I will gain my Masters and specialize in either Quantum Physics, AI research or what ever captivates me at that future time and return to work in the industry.
 
-I am an enthusiastic problem solver with a curious mind. I am passionate about and want to explore; AI, Engineering and Quantitative trading. 
+I am an enthusiastic problem solver with a curious mind. I am passionate about; AI, Engineering and Quantitative trading. 
 
 ## ⚡ Languages, Tools and Technologies ⚡:
 (This section is coming soon!)
