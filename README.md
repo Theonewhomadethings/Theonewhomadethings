@@ -25,7 +25,11 @@ I am an enthusiastic problem solver with a curious mind. I am passionate about; 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theonewhomadethings)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects 📫
-(This section is coming soon!)
+- Quantitative AI trading Bots
+- X-ray simulation with the Monte Carlo method
+- Pokedex GUIs and Youtube offline downloader
+- 2D Games
+- Flask template website
 
 ## 💬 A little background about me and my coding Journey 💬 :
 
