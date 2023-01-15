@@ -10,7 +10,11 @@ I am a 3rd year Physics student currently pursuing a BSc at Royal Holloway. Afte
 I am an enthusiastic problem solver with a curious mind. I am passionate about; AI, Engineering and Quantitative trading. 
 
 ## ⚡ Languages, Tools and Technologies ⚡:
-(This section is coming soon!)
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
 ## Github Stats 🌱
 (This section is coming soon!)
@@ -28,7 +32,7 @@ I have experience also using C++ and C which I have used for projects done in bo
 
 In terms of Java this has been comepletely self learnt. Most Algorithms and Data structure courses and intro to programming courses I saw where taught in Java, so I decided to just pick it up and learn how to manipulate the data structures in this language and see how algorithms are implemented here. Then I would translate these implementations to python3. The courses I am doing right now are Princeton's Coursera course "Algorithms part 1" and Harvard's online CS50 intro to programming. Parallel to this, I am grinding leetcode to get used to writing efficient code and explore competitive programming.
 
-   Current Languages
+ Current Languages
 - Python
 - C++   
 - C     
@@ -41,13 +45,3 @@ The goal for this Github profile is to:
 -  Have a place to store my code generally while I am learning.
 -  Build out my programming Portfolio, to showcase I can code.
 -  Have fun and make some awesome projects!!!
-
-
-- 🔭
-- 🌱 I.
-- 👯 ..
-- 🤔 
-- 💬 .
-- 📫 .
-- 😄 
-
