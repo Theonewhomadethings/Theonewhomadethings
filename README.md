@@ -21,7 +21,7 @@ I am an enthusiastic problem solver with a curious mind. I am passionate about; 
 
 
 ## Github Stats 🌱
-(This section is coming soon!)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theonewhomadethings)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects 📫
 (This section is coming soon!)
