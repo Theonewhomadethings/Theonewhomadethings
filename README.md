@@ -5,9 +5,10 @@
 -----------------------------------
 ## About me 👋
 
-I am a 3rd year Physics student currently pursuing a BSc at Royal Holloway. After I achieve my BSC, the plan is to work in the industry for several years to gain hands on experience working with the most up to date leading-edge technologies. At some stage I will gain my Masters and specialize in either Quantum Physics, AI research or what ever captivates me at that future time and return to work in the industry.
+I am a 3rd year Physics student currently pursuing a BSc at Royal Holloway. I love both reserach and working in the industry so I am going to do both!. Aiming to get some work experience for a couple years, before heading into a masters either in mathematical physics or machine learning. 
 
-I am an enthusiastic problem solver with a curious mind. I am passionate about; AI, Engineering and Quantitative trading. 
+I am an enthusiastic problem solver with a curious mind. I am passionate about; AI, Engineering and Quantitative trading as well as many other things!
+
 
 ## ⚡ Languages, Tools and Technologies ⚡:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -25,11 +26,12 @@ I am an enthusiastic problem solver with a curious mind. I am passionate about; 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theonewhomadethings)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects 📫
-- Quantitative AI trading Bots
+- Trading Bots
 - X-ray simulation with the Monte Carlo method
 - Pokedex GUIs and Youtube offline downloader
 - 2D Games
 - Flask template website
+- More incoming after my finals!
 
 ## 💬 A little background about me and my coding Journey 💬 :
 
