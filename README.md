@@ -9,6 +9,8 @@ I am a 3rd year Physics student currently pursuing a BSc at Royal Holloway. I lo
 
 I am an enthusiastic problem solver with a curious mind. I am passionate about; AI, Engineering and Quantitative trading as well as many other things!
 
+I love solving abstract mathematical and theoretical physics concepts specifically on nuclear fusion and the fundamental forces. I also love exploring and evolving my knowledge of complex algorithims and data structures concepts. 
+
 
 ## ⚡ Languages, Tools and Technologies ⚡:
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
