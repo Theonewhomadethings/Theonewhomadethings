@@ -5,7 +5,7 @@
 -----------------------------------
 ## About me 👋
 
-I am a 3rd year Physics student currently pursuing a BSc at Royal Holloway. I love both reserach and working in the industry so I am going to do both!. Aiming to get some work experience and a masters either in mathematical physics or machine learning. 
+I am a 3rd year Physics student currently pursuing a BSc at Royal Holloway. I love both reserach and working in the industry so I am going to do both!. Aiming to get some work experience and a masters either in mathematical physics or machine learning / robotics. 
 
 I am an enthusiastic problem solver with a curious mind. I am passionate about; AI, Engineering and Quantitative trading as well as many other things!
 
