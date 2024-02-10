@@ -5,6 +5,8 @@
 -----------------------------------
 ## About me 👋
 
+Computer Vision, Robotics and ML is my Jam.
+
 --------------------
 
 ## ⚡ Languages, Tools and Technologies ⚡:
