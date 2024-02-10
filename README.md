@@ -27,7 +27,11 @@ Computer Vision, Robotics and ML is my Jam.
 ## Github Stats 🌱
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theonewhomadethings)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects 📫
+## Personal Projects 📫
+
+
+
+## Open-Source Projects
 
 
 
