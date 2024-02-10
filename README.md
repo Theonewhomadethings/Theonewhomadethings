@@ -1,11 +1,11 @@
-# Abdullah Saleem
+# 
 
-**` Programmer / Early stage Researcher `**
+
 
 -----------------------------------
 ## About me 👋
 
----
+--------------------
 
 ## ⚡ Languages, Tools and Technologies ⚡:
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -26,14 +26,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theonewhomadethings)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects 📫
-- Trading Bots
-- X-ray simulation with the Monte Carlo method
-- Pokedex GUIs and Youtube offline downloader
-- 2D Games
-- Flask template website
-- More incoming after my finals!
 
-## 💬 A little background about me and my coding Journey 💬 :
 
------------------------------------
 
