@@ -29,12 +29,17 @@ Computer Vision, Robotics and ML is my Jam.
 
 ## Personal Projects 📫
 
-
+Developing right now!!!
 
 ## Open-Source Projects
 
+HMU I want to contribute! pytorch, tensorflow, opencv etc
 
 ## Leetcode stats
+
+Leetcode: 
+
+Codeforces: 
 
 
 # Blog
