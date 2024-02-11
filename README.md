@@ -1,6 +1,6 @@
 # 
 
-(Under Maintenance - Ignore this page while I figure my life out)
+(Under Maintenance - Ignore this page while I work on projects and uni)
 
 -----------------------------------
 ## About me 👋
