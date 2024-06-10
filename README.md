@@ -1,11 +1,13 @@
 # 
 
-(Under Maintenance - Ignore this page while I work on projects and uni)
+(Under Maintenance - Currently building/researching cool stuff, will start documenting it on github soon!)
 
 -----------------------------------
 ## About me 👋
 
 Computer Vision, Robotics and ML is my Jam.
+
+Also like optimization theory, control theory, digital signal processing, computer vision, robotics software, desgining Mars rovers, reinforcement learning, neural signal processing, quantum theory, quantum algorithms, remote sensing, GPU programming.
 
 --------------------
 
@@ -37,7 +39,7 @@ HMU I want to contribute! pytorch, tensorflow, opencv etc
 
 ## Leetcode stats
 
-Leetcode: 
+Leetcode: https://leetcode.com/u/TheOneWhoMadeThings
 
 Codeforces: 
 
