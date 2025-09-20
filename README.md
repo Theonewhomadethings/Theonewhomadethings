@@ -6,6 +6,6 @@ Currently locking in.
 Computer Vision, Robotics control and Haptics are my current interests
 
 Full time mechatronics engineer
-Part time open source contributer
+Part time open source contributor
 
 --------------------
